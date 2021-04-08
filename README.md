@@ -1,5 +1,5 @@
 # weather-app
-A weather finding app made using Swift
+A weather finding IOS app made using Swift
 
 # UI
 The app features both a dark and light mode 
